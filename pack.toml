@@ -1,0 +1,10 @@
+[custom.all.continuation-lenses]
+type = "local"
+path = "."
+ipkg = "continuation-lenses.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.continuation-lenses-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
